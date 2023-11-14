@@ -42,6 +42,6 @@ public class Main {
                 answer = Math.min(min, answer);
             }
         }
-        System.out.println(answer + 1);
+        System.out.println(answer);
     }
 }
